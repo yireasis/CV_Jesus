@@ -103,13 +103,20 @@ body {
 }
 
 #Flechita{
- 
-    padding-left: 890px;
-    padding-top: 12px;
+    position: absolute;
+    right: 220px;
+    /*  padding-left: 890px;*/
+    padding-top: 13px;
 
 }
 
+#respuesta-ej1{
 
+display:block;
+display: none;
+
+
+}
 .lista-1{
 
  font-family: 'Inconsolata', monospace;
