@@ -134,8 +134,23 @@ body {
     color:black;
 
 }
+#Flechita-2{
+    position: absolute;
+    right: 220px;
+    /*  padding-left: 890px;*/
+    padding-top: 13px;
+    color:black;
+
+}
 
 #respuesta-ej1{
+
+display:block;
+display: none;
+
+
+}
+#respuesta-ej2{
 
 display:block;
 display: none;
