@@ -73,6 +73,19 @@ body {
   background-color: #AEC4B0
 
 }
+.row-4{
+  margin: 50px;
+  height: 50px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  background-color: #AEC4B0
+
+
+}
 #Descripcion {
   height: 50px;
   display: -ms-flexbox;
@@ -102,6 +115,17 @@ body {
   text-align: center;  
 }
 
+#Blog{
+
+  padding: 10px;
+  padding-left: 0px;
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 17px;
+  text-align: center; 
+
+}
 #Flechita{
     position: absolute;
     right: 220px;
