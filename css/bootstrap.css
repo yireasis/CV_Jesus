@@ -107,6 +107,7 @@ body {
     right: 220px;
     /*  padding-left: 890px;*/
     padding-top: 13px;
+    color:black;
 
 }
 
@@ -130,7 +131,12 @@ display: none;
 
 }
 
+.Vector {
 
+  color: black;
+  font-weight:bold;
+  text-decoration:none;
+}
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
