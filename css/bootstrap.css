@@ -75,19 +75,29 @@ body {
 }
 .row-4{
   margin: 50px;
+<<<<<<< HEAD
   /*height: 50px;*/
+=======
+  height: 50px;
+>>>>>>> 68acea0f36a3bacede35defd0b6683ab4375b085
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+<<<<<<< HEAD
   margin-bottom: 30px;
   background-color: #AEC4B0
 
 
 
 
+=======
+  background-color: #AEC4B0
+
+
+>>>>>>> 68acea0f36a3bacede35defd0b6683ab4375b085
 }
 #Descripcion {
   height: 50px;
@@ -131,7 +141,11 @@ body {
 }
 #Flechita{
     position: absolute;
+<<<<<<< HEAD
     right: 150px;
+=======
+    right: 220px;
+>>>>>>> 68acea0f36a3bacede35defd0b6683ab4375b085
     /*  padding-left: 890px;*/
     padding-top: 13px;
     color:black;
@@ -139,7 +153,11 @@ body {
 }
 #Flechita-2{
     position: absolute;
+<<<<<<< HEAD
     right: 150px;
+=======
+    right: 220px;
+>>>>>>> 68acea0f36a3bacede35defd0b6683ab4375b085
     /*  padding-left: 890px;*/
     padding-top: 13px;
     color:black;
