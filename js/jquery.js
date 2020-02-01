@@ -3,16 +3,20 @@
 
 	$(document).ready(function(){
 
-		$('#alternar-respuesta-ej1').on('click',function(){
+	  $('#alternar-respuesta-ej1').on('click',function(){
       	$('#respuesta-ej1').toggle();
+
   	 });
-		
-});
 
-	$(document).ready(function(){
-
-		$('#alternar-respuesta-ej2').on('click',function(){
+	$('#alternar-respuesta-ej2').on('click',function(){
       	$('#respuesta-ej2').toggle();
   	 });
-		
+    
+    $('#alternar-respuesta-ej3').on('click',function(){
+      	$('#respuesta-ej3').toggle();
+  	});
+ 	$('#alternar-respuesta-ej4').on('click',function(){
+      	$('#respuesta-ej4').toggle();
+  	 });
+
 });
