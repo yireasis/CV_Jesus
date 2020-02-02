@@ -221,6 +221,13 @@ float: right;
 
 }
 
+@supports (-ms-ime-align:auto) {
+    #Flechita {
+       padding-top: 5%;;
+    }
+}
+
+
 #respuesta-ej1{
 
 display:block;
